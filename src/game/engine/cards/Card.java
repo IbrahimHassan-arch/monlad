@@ -12,7 +12,7 @@ public abstract class Card {
 		this.description = description;
 		this.rarity = rarity;
 		this.lucky = lucky;
-        //This is Hassan and Ibrahim from the new branch
+        //Testing my PR
 	}
 	
 	public String getName() {
