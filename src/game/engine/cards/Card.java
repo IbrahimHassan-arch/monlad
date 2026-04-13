@@ -7,12 +7,13 @@ public abstract class Card {
 	private boolean lucky;
 	
 	public Card(String name, String description, int rarity, boolean lucky) {
-		super();
+        //Testing my PR
+        super();
 		this.name = name;
 		this.description = description;
 		this.rarity = rarity;
 		this.lucky = lucky;
-        //Testing my PR
+
 	}
 	
 	public String getName() {
