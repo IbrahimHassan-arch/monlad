@@ -12,6 +12,7 @@ public abstract class Card {
 		this.description = description;
 		this.rarity = rarity;
 		this.lucky = lucky;
+
 	}
 	
 	public String getName() {
