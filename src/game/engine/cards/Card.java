@@ -12,7 +12,7 @@ public abstract class Card {
 		this.description = description;
 		this.rarity = rarity;
 		this.lucky = lucky;
-        //This is Hassan
+        //This is Hassan and Ibrahim
 	}
 	
 	public String getName() {
